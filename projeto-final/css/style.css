@@ -5,4 +5,6 @@
 @import "./home/introducao.css";
 
 /* Componentes */
-@import "utilities/componentes.css"
+@import "utilities/componentes.css";
+@import "./utilities/cores.css";
+@import "./utilities/tipografia.css";
