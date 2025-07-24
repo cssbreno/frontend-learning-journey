@@ -8,3 +8,6 @@
 @import "utilities/componentes.css";
 @import "./utilities/cores.css";
 @import "./utilities/tipografia.css";
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas-lista.css"
