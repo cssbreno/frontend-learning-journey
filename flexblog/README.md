@@ -2,7 +2,7 @@
 
 Um projeto de landing page responsiva desenvolvido durante o curso da **Origamid**, ministrado pelo André Rafael, com foco no aprendizado e prática do CSS Flexbox.
 
-![FlexBlog Preview](https://github.com/cssbreno/flexblog-project/blob/main/assets/preview.png)
+![FlexBlog Preview](https://github.com/cssbreno/flexblog-project/blob/main./assets/preview.png)
 
 ## 📋 Sobre o Projeto
 
