@@ -2,7 +2,7 @@
 
 Um projeto de landing page responsiva desenvolvido durante o curso da **Origamid**, ministrado pelo André Rafael, com foco no aprendizado e prática do CSS Flexbox.
 
-![FlexBlog Preview](https://github.com/cssbreno/flexblog-project/tree/main/assets/preview.png)
+![FlexBlog Preview](https://github.com/cssbreno/flexblog-project/blob/main/assets/preview.png)
 
 ## 📋 Sobre o Projeto
 
@@ -111,19 +111,6 @@ flexblog/
 - Reordenação de elementos com `order`
 - Design mobile-first
 
-### 🎨 Design Patterns
-
-- Color scheme consistente
-- Tipografia hierárquica
-- Espaçamento harmônico
-- Cards e componentes reutilizáveis
-
-## 📊 Browser Support
-
-| Chrome | Firefox | Safari | Edge |
-|:------:|:-------:|:------:|:----:|
-| ✅ 29+ | ✅ 28+  | ✅ 9+  | ✅ 12+ |
-
 ## 🎓 Créditos
 
 Projeto desenvolvido durante o curso de **CSS Flexbox** da [Origamid](https://origamid.com/), ministrado pelo instrutor **André Rafael**.
@@ -137,22 +124,6 @@ Projeto desenvolvido durante o curso de **CSS Flexbox** da [Origamid](https://or
 ## 📈 Status do Projeto
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
-
-## 🤝 Como Contribuir
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Melhorias Futuras
-
-- [ ] Adicionar animações CSS
-- [ ] Implementar modo escuro
-- [ ] Adicionar mais seções
-- [ ] Otimizar para SEO
-- [ ] Adicionar JavaScript para interações
 
 ## 📄 Licença
 
