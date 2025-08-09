@@ -2,7 +2,7 @@
 
 Um projeto de landing page responsiva desenvolvido durante o curso da **Origamid**, ministrado pelo André Rafael, com foco no aprendizado e prática do CSS Flexbox.
 
-![FlexBlog Preview](https://via.placeholder.com/800x400/2c70ff/ffffff?text=FlexBlog+Preview)
+![FlexBlog Preview](https://github.com/cssbreno/flexblog-project/tree/main/assets/preview.png)
 
 ## 📋 Sobre o Projeto
 
@@ -156,22 +156,4 @@ Projeto desenvolvido durante o curso de **CSS Flexbox** da [Origamid](https://or
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📞 Contato
-
-Criado durante os estudos na Origamid - sinta-se livre para entrar em contato!
-
----
-
-<div align="center">
-  <sub>⭐ Se este projeto foi útil para seus estudos, considere dar uma estrela no repositório!</sub>
-</div>
-
----
-
-<div align="center">
-  <img src="https://origamid.com/cursos/css-flexbox/img/origamid-logo.svg" alt="Origamid" width="100">
-  
-  **Desenvolvido com 💙 durante o curso da Origamid**
-</div>
+Este projeto foi desenvolvido para fins educacionais e não possui fins comerciais.
